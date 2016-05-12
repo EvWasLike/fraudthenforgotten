@@ -1,0 +1,36 @@
+﻿The Database
+The data was narrowed down from the data available at Federal Contractor Misconduct Database. This data was procured by the Project on Government Oversight, a watchgroup founded in 1981. Information provided by POGO has been used by journalists since POGO’s inception. In 2009, POGO received the Sunshine Award from the Society of Professional Journalists, in part, for the work the did to compile the Federal Contractor Misconduct Database. (I know awards aren’t everything but that seems like a pretty strong indication of the validity of POGO).
+
+
+This data was cross-referenced with contract information available on USAspending.gov, the dumping ground for all of the legally mandated data released by the government. 
+
+
+Beyond creating the spreadsheets that show the individual instances of fraud, we’ve compiled the Department of Justice releases and (when applicable/currently accessible) relevant court documents for each of the instances of contractor fraud so that we can contact the relevant US Attorneys offices. 
+
+
+The court documents and DoJ releases were useful as reference points for confirming data but did not play a large role in this iteration of the project.
+
+
+The template for the database was taken from list.js. 
+
+
+The data in the database was confirmed with Neil Gordon of POGO.
+
+
+Ben Friedman of the Cato Institute provided general insight into the defense contracting process.
+
+
+EOTech
+The initial information about EOTech was pulled from the Contractor Misconduct Database/POGO. 
+
+
+The information and data for the EOTech story were drawn from US Attorney’s Office documents: the complaint and settlement filed 11/24/2015 and 11/25/2015, respectively. The contract information for the timeline was downloaded from usaspending.gov. 
+
+
+When information was unclear, I reached out to officials from the General Service Administration’s Suspension and Debarment for clarification. They were not particularly helpful about the specific case but I was able to get general information. 
+
+
+EOTech and its parent company L-3 Communications were not helpful.
+
+
+I reached out to the US Attorney’s Office but received no response.

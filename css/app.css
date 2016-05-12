@@ -1,19 +1,43 @@
-body {
+/*custom css*/
+  body, h1, h2, h3, h4, h5, h6 img {
   background-color: #FFF;
   color: #625A51;
-  text-align: justify;
   font-family:rockwell;
-  margin-left:100px;
-  margin-right:100px;
+  margin: 0 auto ;
+  /*margin-right: 125px;
+  margin-left: 125px;*/
 }
 
 nav {
-  font-size:40px;
+  font-size:30px;
+  color: #625A51;
+  background-color: #D9DBCB;
+  max-width: 100%;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#timeline {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  color: #709FB2;
+}
+
+iframe {
+  border: 1px solid #625A51;
 }
 
 .list {
   font-family:rockwell;
 }
+
+
 td {
   padding:10px; 
   border:solid 1px #eee;
