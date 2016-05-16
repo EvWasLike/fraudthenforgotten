@@ -25,6 +25,11 @@ nav {
   margin: 0 auto;
 }
 
+#tablescroll {
+  height: 400px;
+  overflow-y: scroll;
+}
+
 a {
   color: #709FB2;
 }
@@ -50,6 +55,9 @@ td {
   overflow: scroll;
 }
 
+#datanav {
+  margin: ;
+}
 
 input {
   border:solid 1px #ccc;
